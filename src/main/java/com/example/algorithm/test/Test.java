@@ -32,5 +32,7 @@ public class Test {
         data.get("dd");
         data.put("1", Arrays.asList("1"));
 
+        System.out.println("abcabcabcabc".indexOf("abcabc", 1));
+
     }
 }
